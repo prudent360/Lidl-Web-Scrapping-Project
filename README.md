@@ -32,7 +32,7 @@ Supports multi-page scraping for comprehensive data collection
 
 - Clone this repository:
 
-git clone https://github.com/your-username/lidl-trustpilot-scraper.git
+git clone https://github.com/prudent360/lidl-trustpilot-scraper.git
 cd lidl-trustpilot-scraper
 
 - Install dependencies
