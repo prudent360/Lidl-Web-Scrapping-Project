@@ -1,2 +1,28 @@
 # Jupyter Notebook files
 .ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*~
+.*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Logs and cache
+logs/
+cache/
+
+# Environment variables
+.env
+
+# Data outputs
+*.csv
+*.xlsx
