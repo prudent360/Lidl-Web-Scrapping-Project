@@ -41,5 +41,7 @@ cd lidl-trustpilot-scraper
 requirements.text
 
 beautifulsoup4==4.12.3
+
 mechanize==0.4.9
+
 pandas==2.0.3
